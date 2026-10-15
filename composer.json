@@ -1,0 +1,10 @@
+{
+  "name": "confeature/confeature-php-sdk",
+  "description": "Name reserved for the Confeature PHP SDK (ConfigCat-compatible). The first real release is coming; do not depend on 0.0.0.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://confeature.io",
+  "authors": [{ "name": "MakerLabs", "homepage": "https://confeature.io" }],
+  "require": { "php": ">=8.1" },
+  "autoload": { "psr-4": { "Confeature\\": "src/" } }
+}
